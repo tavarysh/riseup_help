@@ -15,7 +15,7 @@ In order to configure a [[jabber client => chat/clients]], you need this informa
 * *account*: [@username@riseup.net@]
 * *password*: your [[riseup-password]]
 
-It is very important than you configure your client to *always require encryption*. Some clients have a setting "encryption if available". Even though the riseup.net servers require encryption, if your client is configured to use "encryption if available" an attacker can easily acquire your password.
+It is very important that you configure your client to *always require encryption*. Some clients have a setting "encryption if available". Even though the riseup.net servers require encryption, if your client is configured to use "encryption if available" an attacker can easily acquire your password.
 
 Some jabber clients will ask for your username and domain separately. In this case, you would specify:
 
@@ -37,7 +37,7 @@ If you need to specify the room separately, do this:
 
 Do NOT use  [@your-room-name@riseup.net@]
 
-h3. using rooms in Pidgin
+h3. Using rooms in Pidgin
 
 If your are are connected via [[pidgin]], to join or create a chatroom, click @Add room@ in the @Buddy@ menu.
 
