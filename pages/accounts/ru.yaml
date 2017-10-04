@@ -11,7 +11,7 @@ red_help: "[[Задать вопрос службе поддержки Riseup Re
 black_title: "Riseup Black"
 black_info: "Мы предоставляем аккаунты <b>Riseup Black</b> для новых сервисов,
   которым необходимо приложение Bitmask. В настоящее время они включают VPN,
-  скоро будет доступна электронная почта с непрерывным шифрованием."
+  скоро будет доступна электронная почта со сквозным шифрованием."
 black_vpn: "[[Получить помощь по VPN => vpn]]"
 black_settings: "[[Изменить настройки => https://black.riseup.net]]"
 black_download: "[[Загрузить приложение Bitmask => https://bitmask.net/install]]"
@@ -20,20 +20,20 @@ black_help: "[[Задать вопрос службе поддержки Riseup 
 other_title: "Другие сервисы"
 other_info: "Следующие сервисы используют несвязанные с Riseup Red или Riseup Black аккаунты."
 
-lists_title: "Листы рассылок"
-lists_info: "Мы предоставляем листы рассылок для активистских организаций."
-lists_login: "[[Войти в листы рассылок => https://lists.riseup.net/www/]]"
-lists_help: "[[Получить помощь по листам  => lists]]"
-lists_request: "[[Запросить лист => creating-lists]]"
+lists_title: "Рассылки"
+lists_info: "Мы предоставляем рассылки для активистских организаций."
+lists_login: "[[Войти в рассылку => https://lists.riseup.net/www/]]"
+lists_help: "[[Получить помощь по рассылкам  => lists]]"
+lists_request: "[[Запросить рассылку => creating-lists]]"
 lists_subscribe: "[[Подписаться => subscribing]]"
 lists_unsubscribe: "[[Отписаться => subscribing]]"
 
 collab_title: "Cовместная работа"
-we_info: "частные вики и групповая совместная работа."
-pad_info: "совместный текстовый редактор в режиме реального времени."
+we_info: "приватные вики-страницы и групповая совместная работа."
+pad_info: "коллективный текстовый редактор в режиме реального времени."
 share_info: "файлообменник (в том числе для текстов и картинок)."
 
-resources_title: Resources
+resources_title: "Ресурсы"
 security_info: "Ресурсы и учебные пособия для защищенных коммуникаций."
 help_link: "[[Riseup Help Desk => https://support.riseup.net/en/topics/new]]"
 help_info: "Для того, чтобы получить помощь, используйте форму обратной связи
